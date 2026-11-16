@@ -6,7 +6,7 @@
 
 ---
 
-[https://claude.ai/share/ae137aae-6a4f-4145-8636-208770a2af86](Cloude)
+[Claude preview](https://claude.ai/share/ae137aae-6a4f-4145-8636-208770a2af86)
 ## সূচিপত্র
 
 1. [rclone ইনস্টল](#১-rclone-ইনস্টল)
