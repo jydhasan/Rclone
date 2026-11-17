@@ -1,5 +1,5 @@
 ## সূচিপত্র
-[🏠 হোম](README.md) | [☁️ rclone](rclone.md) | [🔧 সমস্যা সমাধান](SimpleCMD.md)
+[🏠 হোম](README.md) | [☁️ rclone](rclone.md) | [🔧 সমস্যা সমাধান](SimpleCMD.md) | [Basic CMD](basic.md)
 # Windows এ rclone দিয়ে Google Drive সেটআপ গাইড
 
 এই গাইড অনুসরণ করে যেকোনো কম্পিউটারে বা যেকোনো Google অ্যাকাউন্টে rclone দিয়ে Google Drive কানেক্ট করা যাবে।
