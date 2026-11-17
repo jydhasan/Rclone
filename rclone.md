@@ -1,5 +1,5 @@
 ## সূচিপত্র
-[🏠 হোম](README.md) | [☁️ rclone](rclone.md) | [🔧 সমস্যা সমাধান](troubleshooting.md)
+[🏠 হোম](README.md) | [☁️ rclone](rclone.md) | [🔧 সমস্যা সমাধান](SimpleCMD.md) | [Basic CMD](basic.md)
 # rclone bisync: শুরু থেকে টিউটোরিয়াল (শুধু CMD দিয়ে)
 
 নিচের ধাপগুলো ক্রমানুসারে করুন। প্রতিটি কমান্ড CMD-তে কপি-পেস্ট করলেই চলবে।
