@@ -12,6 +12,8 @@ rclone sync gdrive:backup "D:\Backup" -P
 এটা দিলে ড্রাইভের সব ফাইল লোকালে চলে আসবে।
 ```
 rclone sync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --progress
+rclone bisync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --resync --progress --verbose
+rclone bisync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --progress --verbose
 ```
 একই নামে Directory বানাতে হবে।
 
