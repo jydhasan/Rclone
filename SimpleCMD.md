@@ -16,6 +16,10 @@ rclone bisync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --resync --progres
 rclone bisync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --progress --verbose
 ```
 একই নামে Directory বানাতে হবে।
+```
+rclone bisync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --resync --dry-run --verbose
+```
+Dry-run দিলে দেখা যায় কি কি Delete হবে।
 
 ### ধাপ ২: এরপর Bisync চালু করো
 
