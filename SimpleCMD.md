@@ -10,6 +10,10 @@ rclone sync gdrive:backup "D:\Backup" -P
 ```
 
 এটা দিলে ড্রাইভের সব ফাইল লোকালে চলে আসবে।
+```
+rclone sync "Drive-zahid2.kwsr:Shared-test" ".\Shared-test" --progress
+```
+একই নামে Directory বানাতে হবে।
 
 ### ধাপ ২: এরপর Bisync চালু করো
 
